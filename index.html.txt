@@ -181,7 +181,7 @@
             border: none;
             border-radius: 8px;
             font-size: 14px;
-            font-weight: bold;
+            fontWeight: bold;
             cursor: pointer;
         }
         
